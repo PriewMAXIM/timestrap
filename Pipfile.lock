@@ -1,7 +1,7 @@
 {
     "_meta": {
         "hash": {
-            "sha256": "e7d3e4c6c60e8b4b0a71a694938c04bc87b58da53530233e0792bcd603c07bb6"
+            "sha256": "a4c5dd46f1c0022fbda5160648a6df3c4fd25e427188a6cc8a6ed30591d9eb7c"
         },
         "requires": {},
         "sources": [
@@ -19,7 +19,7 @@
             "version": "==0.4.2"
         },
         "django": {
-            "version": "==1.11.2"
+            "version": "==1.11.3"
         },
         "django-filter": {
             "version": "==1.0.4"
@@ -33,8 +33,11 @@
         "djangorestframework": {
             "version": "==3.6.3"
         },
+        "et-xmlfile": {
+            "version": "==1.0.1"
+        },
         "faker": {
-            "version": "==0.7.15"
+            "version": "==0.7.18"
         },
         "gunicorn": {
             "version": "==19.6.0"
@@ -42,23 +45,41 @@
         "ipaddress": {
             "version": "==1.0.18"
         },
-        "psycopg2": {
-            "version": "==2.6.2"
+        "jdcal": {
+            "version": "==1.3"
+        },
+        "odfpy": {
+            "version": "==1.3.5"
+        },
+        "openpyxl": {
+            "version": "==2.4.8"
         },
         "python-dateutil": {
-            "version": "==2.6.0"
+            "version": "==2.6.1"
         },
         "pytz": {
             "version": "==2017.2"
+        },
+        "pyyaml": {
+            "version": "==3.12"
         },
         "six": {
             "version": "==1.10.0"
         },
         "tablib": {
-            "version": "==0.11.4"
+            "version": "==0.11.5"
+        },
+        "unicodecsv": {
+            "version": "==0.14.1"
         },
         "whitenoise": {
             "version": "==3.3.0"
+        },
+        "xlrd": {
+            "version": "==1.0.0"
+        },
+        "xlwt": {
+            "version": "==1.2.0"
         }
     },
     "develop": {
@@ -69,10 +90,10 @@
             "version": "==2.4.0"
         },
         "certifi": {
-            "version": "==2017.4.17"
+            "version": "==2017.7.27.1"
         },
         "chardet": {
-            "version": "==3.0.3"
+            "version": "==3.0.4"
         },
         "commonmark": {
             "version": "==0.5.4"
@@ -129,7 +150,7 @@
             "version": "==0.4.0"
         },
         "requests": {
-            "version": "==2.17.3"
+            "version": "==2.18.2"
         },
         "selenium": {
             "version": "==3.4.3"
@@ -147,7 +168,7 @@
             "version": "==0.2.4"
         },
         "urllib3": {
-            "version": "==1.21.1"
+            "version": "==1.22"
         }
     }
 }
